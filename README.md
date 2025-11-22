@@ -57,7 +57,7 @@ module full_adder (
 endmodule
 ```
 
-#HALF SUBTRACTOR
+#FULL SUBTRACTOR
 ```
 module full_subtractor (
     input  wire a, b, bin,       // Inputs
@@ -80,22 +80,22 @@ RegisterNumber: 25016007
 
 **RTL Schematic**
 
-#HALF ADDER
+#FULL ADDER
 <img width="975" height="712" alt="Screenshot 2025-11-22 203202" src="https://github.com/user-attachments/assets/a30ec71d-b920-41f4-8276-3e882a431d8e" />
 
 
-#HALF SUBTRACTOR
+#FULL SUBTRACTOR
 <img width="981" height="577" alt="Screenshot 2025-11-22 203315" src="https://github.com/user-attachments/assets/85f2266a-c911-40a8-b1ef-bff5a3645e8e" />
 
 
 
 **Output Timing Waveform**
 
-#HALF ADDER
+#FULL ADDER
 <img width="1108" height="388" alt="Screenshot 2025-11-22 203142" src="https://github.com/user-attachments/assets/4c0bc0b7-a755-4678-9c43-f1b9952b1dbd" />
 
 
-#HALF SUBTRACTOR
+#FULL SUBTRACTOR
 <img width="1066" height="488" alt="Screenshot 2025-11-22 203347" src="https://github.com/user-attachments/assets/13ae14e6-82f4-4f5f-acaf-2e5974305b13" />
 
 

@@ -89,12 +89,12 @@ RegisterNumber: 25016007
 **RTL Schematic**
 
 #FULL ADDER
-<img width="975" height="712" alt="Screenshot 2025-11-22 203202" src="https://github.com/user-attachments/assets/a30ec71d-b920-41f4-8276-3e882a431d8e" />
+<img width="962" height="579" alt="Screenshot 2025-12-06 212410" src="https://github.com/user-attachments/assets/4c164d68-8926-4971-b71c-addc42e1e4c2" />
+
 
 
 #FULL SUBTRACTOR
-<img width="981" height="577" alt="Screenshot 2025-11-22 203315" src="https://github.com/user-attachments/assets/85f2266a-c911-40a8-b1ef-bff5a3645e8e" />
-
+<img width="947" height="341" alt="Screenshot 2025-12-06 212428" src="https://github.com/user-attachments/assets/438ddc37-521e-4ec4-bd6e-0aaf074b9937" />
 
 
 **Output Timing Waveform**
